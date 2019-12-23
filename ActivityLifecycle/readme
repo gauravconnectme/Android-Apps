@@ -1,0 +1,2 @@
+All events will be displayed on Logcat from oncreate() to onDestroy() method calls.
+Also used Orientation configurations
